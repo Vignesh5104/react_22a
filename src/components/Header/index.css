@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: #12022f;
+}
+
+.logo-con {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 25pxpx;
+  height: 25px;
+  margin-right: 8px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.nav-links-con {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.nav-links{
+  list-style-type: none;
+  color: #12022f;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 15px;
+}

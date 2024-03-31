@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.contact-con {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  font-size: 40px;
+  font-weight: bold;
+  color: #551e53;
+}
+
+.contact-img {
+  width: 250px;
+}
